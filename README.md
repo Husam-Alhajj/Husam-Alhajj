@@ -31,7 +31,7 @@ SmartServe is a multi-role marketplace connecting customers with discounted food
 
 **Stack:** Laravel 12 · PHP · MySQL · REST APIs · React · Vite · Tailwind CSS · Ant Design · React Native · Expo · Expo Router · n8n · LLM API integration · Docker · VPS
 
-[View live platform →](https://smartserve.multydo.com/)
+
 
 > The source repository is not currently public, so no repository link is presented here.
 
@@ -99,4 +99,4 @@ Production-ready full-stack applications · software quality · UI/UX for busine
 
 I’m open to opportunities in **full-stack development, software testing/QA, UI/UX-oriented product work, and AI automation**. If you’re building a practical product and value the connection between engineering quality and user experience, let’s talk.
 
-[LinkedIn](https://www.linkedin.com/in/husam-al-hajj-48881a25b/) · [Email](mailto:alhajjhusam01@gmail.com) · [GitHub](https://github.com/Husam-Alhajj) · [SmartServe](https://smartserve.multydo.com/)
+[LinkedIn](https://www.linkedin.com/in/husam-al-hajj-48881a25b/) · [Email](mailto:alhajjhusam01@gmail.com) · [GitHub](https://github.com/Husam-Alhajj) · 
