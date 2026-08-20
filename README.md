@@ -8,7 +8,6 @@ Computer Science graduate based in Lebanon, building practical software across w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husam-al-hajj-48881a25b/)
 [![Email](https://img.shields.io/badge/Email-alhajjhusam01%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alhajjhusam01@gmail.com)
-[![SmartServe](https://img.shields.io/badge/Live_Project-SmartServe-166534?style=flat-square&logo=vercel&logoColor=white)](https://smartserve.multydo.com/)
 
 </div>
 
